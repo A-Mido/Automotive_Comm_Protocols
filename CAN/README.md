@@ -77,6 +77,8 @@ During the Interframe Space (intermission) no node can start the transmission of
 
 
 ## Acknowledgements <a name="Acknowledgements"></a>
-1. This [site](https://www.ni.com/en-lb/innovations/white-papers/06/controller-area-network--can--overview.html) is great.
+1. this is an intresting [video](https://www.youtube.com/watch?v=FqLDpHsxvf8).
 
-2.This is also a good [site](http://www.copperhilltechnologies.com/can-bus-guide-message-frame-format/).
+2. This [site](https://www.ni.com/en-lb/innovations/white-papers/06/controller-area-network--can--overview.html) is great.
+
+3.This is also a good [site](http://www.copperhilltechnologies.com/can-bus-guide-message-frame-format/).
