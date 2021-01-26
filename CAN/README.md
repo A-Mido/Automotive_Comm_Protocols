@@ -80,5 +80,3 @@ During the Interframe Space (intermission) no node can start the transmission of
 1. This [site](https://www.ni.com/en-lb/innovations/white-papers/06/controller-area-network--can--overview.html) is great.
 
 2.This is also a good [site](http://www.copperhilltechnologies.com/can-bus-guide-message-frame-format/).
-
-3. Also this book is also great " Multiplexed Networks for Embedded Systems by Dominique Paret ".
